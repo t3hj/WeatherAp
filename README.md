@@ -45,16 +45,15 @@ A simple command-line weather application that fetches current weather data for 
 
 2. Follow the prompts:
    - Choose the temperature unit (`C` for Celsius, `F` for Fahrenheit).
-   - Enter city names separated by commas (e.g., `London,Paris,Berlin`).
+   - Enter city names separated by commas (e.g., `London,Paris,New York`).
 
 3. View the weather information displayed for each city.
 
 ## Example Output
 
-```
 ![image](https://github.com/user-attachments/assets/2f46b7dd-6f9e-4c9b-b382-ca8396392cd2)
 
-```
+
 
 ## Contributing
 
