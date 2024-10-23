@@ -1,6 +1,6 @@
 import requests
 
-API_KEY = 'aa3351d11a51f7862f15a76fd5f4a190'
+API_KEY = 'your_api_key_here'  # Ensure this is valid
 BASE_URL = 'http://api.openweathermap.org/data/2.5/weather?'
 
 # Ask the user for the preferred unit
